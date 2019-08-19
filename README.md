@@ -1,16 +1,35 @@
-# flutter_tables_app
+# Flutter_Table_app
 
-A new Flutter application.
+Flutter Tutorial - Flutter DataTable
+Flutter Tutorial - Flutter DataTable Video series can be watched here https://youtu.be/0S-95xTxsAg
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+In this project, you will learn how to use the Flutter DataTable and I have also included a demo Price Plan page.
 
-A few resources to get you started if this is your first Flutter project:
+<div style="text-align: center">
+    <table>
+        <tr>
+            <td style="text-align: center">
+                    <img src="https://github.com/whatsupcoders/Flutter-Tables/blob/master/assets/Screenshot_1566245013.png" width="200"/>
+            </td>            
+            <td style="text-align: center">              
+                      <img src="https://github.com/whatsupcoders/Flutter-Tables/blob/master/assets/Screenshot_1566245018.png" width="200"/>
+            </td>
+            <td style="text-align: center">
+                     <img src="https://github.com/whatsupcoders/Flutter-Tables/blob/master/assets/Screenshot_1566245021.png" width="200"/>
+            </td>
+            <td style="text-align: center">
+                     <img src="https://github.com/whatsupcoders/Flutter-Tables/blob/master/assets/table.gif" width="200"/>
+            </td>            
+      </tr>
+  </table>
+  </div>
+  
+For more Flutter Tutorials watch my videos on https://www.youtube.com/c/whatsupcoders <br />
+If you appreciate the content 📖, support projects visibility, give 👍| ⭐| 👏
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+FOLLOW ME HERE:
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+Facebook: https://www.facebook.com/whatsupcoders <br />
+Twitter: https://www.twitter.com/whatsupcoders
